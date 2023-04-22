@@ -1,3 +1,6 @@
+#Практическая работа 0
+##Выполнил Яковлев Александр, группы БИСО-03-20
+
 @startuml "Практическая работа 0"
 left to right direction 
 skinparam packageStyle rect
